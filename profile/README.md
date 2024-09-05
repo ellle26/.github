@@ -12,3 +12,4 @@
 | 7       |Viva Lou Dapitan        | watashiwabakadesu
 | 8       |Angel Beateice Jumawan  | abjmwn |
 | 14      | Barquilla, Christian Paul | Azwraith |
+| 15      |Elmarie Hamuat          | elllllllllle |
